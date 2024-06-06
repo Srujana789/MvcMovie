@@ -117,7 +117,26 @@ Rating field is now editable
 
 part 9 1922
 
+validation rules for movie model
 validation in UI for all the possibilities for data types configured
 test successful
+
+
+2024-06-06 1415
+
+part 10 1420
+
+examined movie controller, program.cs files
+
+
+1430
+
+Created Github account 
+cloned it 
+pushed project MvcMovie to github
+Made my github repository private to public
+checked with my peer to access my github link..its working
+
+
 
 
